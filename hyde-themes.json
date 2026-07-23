@@ -678,5 +678,15 @@
       "#041011",
       "#2DC9DC"
     ]
+  },
+  {
+    "THEME": "Drawbridge",
+    "LINK": "https://github.com/aasaaDev/Drawbridge",
+    "OWNER": "https://github.com/aasaaDev",
+    "DESCRIPTION": "Keep on keeping on!",
+    "COLORSCHEME": [
+      "#353842",
+      "#ADAE89"
+    ]
   }
 ]
